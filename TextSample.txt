@@ -1,2 +1,2 @@
-First Text File
-Second Test File Line
+FIRST TEXT FILE
+SECOND TEXT FILE NAME
